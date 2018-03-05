@@ -1,0 +1,45 @@
+.biggerw {
+   width: 25%;
+    float: left;
+    width: 20%;
+    padding: 25px 0 0px 2%;
+}
+.biggerw img{
+display:inline-block;
+}
+
+.holderpositions{
+	position:relative;
+}
+
+.drzac{
+    width: 500%;
+    overflow: hidden
+}
+.biggerw_volonteri {
+    float: left;
+    width: 50%;
+    padding: 25px 5% 25px 0;
+    text-align:left;
+
+}
+.window {
+    overflow: hidden;
+}
+.prikaz{
+	display:block;
+}
+.controls{
+	text-align:right;
+	margin-top:50px;
+}
+.controls img{
+	width:50px;
+}
+
+@media only screen and (max-width: 1080px){
+
+
+
+
+}
